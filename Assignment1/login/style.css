@@ -1,0 +1,33 @@
+.box {
+    width: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.box input {
+    padding: 15px;
+    border-radius: 10px;
+    border: 0.5px solid gray;
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 15px 50px;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+p {
+    color: gray;
+}
+
+a {
+    color: #1d1d1d;
+}
+
+

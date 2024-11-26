@@ -1,0 +1,80 @@
+.box {
+    margin: 100px auto;
+    width: 400px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-padding {
+    padding: 50px;
+}
+
+.bottom-border {
+    border-bottom: 1px solid gray;
+}
+
+.box1-color {
+    background-color: #00FF99;
+}
+
+.box2-border {
+    border: 0.5px solid gray;
+}
+
+.box p.small {
+    font-size: small;
+}
+
+.color-gray {
+    color: gray;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.button1 {
+    background-color: white;
+    border-radius: 50px;
+    height: 50px;
+    border: 0;
+    font-weight: bold;
+    width: 200px;
+    font-size: medium;
+}
+
+.section {
+    padding: 20px ;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.blue-text{
+    color: #4287f5;
+}
+
+.profile-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.ad-img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+}
+
+.icon {
+    color: gray;
+    height: 20px;
+    width: 20px;
+}
+
+.button2 {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0.5px solid gray;
+    color: #4287f5 ;
+    background-color: white;
+}
